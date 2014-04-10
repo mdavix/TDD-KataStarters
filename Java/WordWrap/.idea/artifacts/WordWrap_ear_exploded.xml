@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="WordWrap:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordWrap_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WordWrap/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
