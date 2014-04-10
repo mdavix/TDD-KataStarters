@@ -2,7 +2,7 @@ package app;
 
 public class FizzBuzzCalculator {
 
-    public int Calculate(int number) {
-        return 0;
+    public String Calculate(int number) {
+        return "0";
     }
 }

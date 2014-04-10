@@ -33,6 +33,6 @@ public class FizzBuzzTests {
     public void PleaseDeleteMe_LetMeGo(){
         FizzBuzzCalculator fizzBuzzCalculator = new FizzBuzzCalculator();
 
-        assertThat(fizzBuzzCalculator.Calculate(0), is(0));
+        assertThat(fizzBuzzCalculator.Calculate(0), is("0"));
     }
 }
