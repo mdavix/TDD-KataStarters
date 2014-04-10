@@ -1,3 +1,32 @@
+# IntelliJ IDEA
 workspace.xml
 tasks.xml
 out/
+
+# Visual Studio
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+#NUNIT
+*.VisualState.xml
+TestResult.xml
+
+#Nuget
+Dotnet/packages/*
+!DotNet/packages/repositories.config
