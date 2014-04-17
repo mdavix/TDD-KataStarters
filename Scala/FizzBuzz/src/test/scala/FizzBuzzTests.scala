@@ -4,7 +4,7 @@ import org.specs2.mutable._
  * Before you start:
  * The following is a TDD Kata exercise in coding, refactoring and test-first.
  * Try not to read ahead.
- * Read each rule on their own, implement the necessary tests, refactor then move onto the next rule.
+ * Read each rule on their own, implement the necessary tests and code, refactor then move onto the next rule.
  * Focus on testing for correct inputs only.
  *
  * The FizzBuzz Kata
